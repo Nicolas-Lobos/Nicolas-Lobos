@@ -1,12 +1,13 @@
 ## Oi, eu sou Nicolas Lobos
 
-- Hoje curso Análise e Desenvolvimento de Sistemas
-- Estudo C, HTML, CSS e Bootstrap
+- Estudante Análise e Desenvolvimento de Sistemas
+- Conhecimento em C, HTML, CSS e Bootstrap
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/Nicolas-Lobos">
-    <img height="180em" width="60%"  src="https://github-readme-stats.vercel.app/api?username=NicolasLobos&show_icons=true&theme=omni&icon_color=39ff14&include_all_comiits=true&count_private=true"/>
-    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLobos&layout=compact&langs_count=16&theme=omni"/>
+    <img align="center" height="180em" width="auto"  src="https://github-readme-stats.vercel.app/api?username=NicolasLobos&show_icons=true&theme=omni&icon_color=39ff14&include_all_comiits=true&count_private=true"/>
+    <!---<img align="center" height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLobos&layout=compact&langs_count=16&theme=omni"/>
+--->
 </div>
   
 <div style="display: inline_block"><br>
