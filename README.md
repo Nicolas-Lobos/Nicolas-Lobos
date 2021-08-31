@@ -1,7 +1,8 @@
-## Oi, eu sou Nicolas Lobos
+## Hello There, eu sou Nicolas Lobos
 
 - Estudante Análise e Desenvolvimento de Sistemas
 - Conhecimento em C, HTML, CSS e Bootstrap
+- Amante de Tecnologias 
 
 <div style="display: inline_block">
   <a href="https://github.com/Nicolas-Lobos">
