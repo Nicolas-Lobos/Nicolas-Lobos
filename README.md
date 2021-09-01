@@ -6,13 +6,13 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/Nicolas-Lobos">
-    <img align="center" height="180em" width="auto"  src="https://github-readme-stats.vercel.app/api?username=NicolasLobos&show_icons=true&theme=omni&icon_color=39ff14&include_all_comiits=true&count_private=true"/>
-    <!---<img align="center" height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLobos&layout=compact&langs_count=16&theme=omni"/>
---->
+  <img align="center" height="180em" width="auto"  src="https://github-readme-stats.vercel.app/api?username=NicolasLobos&show_icons=true&theme=omni&icon_color=39ff14&include_all_comiits=true&count_private=true"/>
+  <img align="center" height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLobos&layout=compact&langs_count=16&theme=omni"/>
+
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="C-Language" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+	<img align="center" alt="C-Language" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="HTML-Language" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS-Language" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
