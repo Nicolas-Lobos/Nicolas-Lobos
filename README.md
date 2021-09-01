@@ -5,8 +5,10 @@
 - Amante de Tecnologias 
 
 <div style="display: inline_block">
-  <a href="https://github.com/Nicolas-Lobos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NicolasLobos&show_icons=true&theme=omni&icon_color=39ff14&include_all_comiits=true&count_private=true"/>
+	<a href="https://github.com/Nicolas-Lobos">
+	<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Lobos&show_icons=true&theme=omni&icon_color=39ff14&include_all_comiits=true&count_private=true"/>
+	<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Lobos&layout=compact&card_width=180em&langs_count=7&theme=omni"/>
+	
 </div>
   
 <div style="display: inline_block"><br>
