@@ -7,8 +7,6 @@
 <div style="display: inline_block">
   <a href="https://github.com/Nicolas-Lobos">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NicolasLobos&show_icons=true&theme=omni&icon_color=39ff14&include_all_comiits=true&count_private=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLobos&layout=compact&langs_count=5&theme=omni"/>
-
 </div>
   
 <div style="display: inline_block"><br>
