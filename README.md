@@ -1,7 +1,7 @@
 ## Hello There, eu sou Nicolas Lobos
 
 - Estudante Análise e Desenvolvimento de Sistemas
-- Conhecimento em C, HTML, CSS e Bootstrap
+- Conhecimento em C, Python e MySQL
 - Amante de Tecnologias 
 
 <div style="display: inline_block">
